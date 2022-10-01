@@ -1,5 +1,3 @@
-# DSA-Algorithms-Open-Source 
-
 # ✨Hacktoberfest 2022✨
 A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and Follow me.<br>
 (🛑Required)
