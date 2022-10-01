@@ -17,7 +17,7 @@ https://hacktoberfest.digitalocean.com/
 ***
 
 ## Our Awesome contributors 🤩:
-<a href="https://github.com/tarunsinghofficial/HacktoberFest/graphs/contributors">
+<a href="https://github.com/imhardikdesai/DSA-Algorithms/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=imhardikdesai/DSA-Algorithms" />
 </a>
 
