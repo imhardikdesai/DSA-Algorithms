@@ -106,7 +106,13 @@ function timeConversion(s) {
 }
 
 function main() {
-  const s = readLine();
+    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
-  const result = timeConversion(s);
+    const s = readLine();
+
+    const result = timeConversion(s);
+
+    ws.write(result + '\n');
+
+    ws.end();
 }
